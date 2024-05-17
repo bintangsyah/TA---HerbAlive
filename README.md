@@ -1,16 +1,3 @@
-# herbaliveta
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![herbsplash](https://github.com/bintangsyah/TA---HerbAlive/assets/109029241/e6f9f7ab-4e90-44d1-ba7b-2f0f80ce413a)
+![loginherb](https://github.com/bintangsyah/TA---HerbAlive/assets/109029241/6da6dfb5-78cc-4e37-85f7-a67678b47dce)
+![berandaherb](https://github.com/bintangsyah/TA---HerbAlive/assets/109029241/bd1c3989-16f8-44ed-af61-4f3d4840ec0b)
